@@ -1,7 +1,7 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Tënis de mesa',
+    'Qual a altura minima para um saque?',
+    '15cm de altura'
 )
 
 criaCartao(
@@ -18,6 +18,6 @@ criaCartao(
 
 criaCartao(
     'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Como se diz entendi em Inglês?',
+    'Entendi em ingles é I understand (ANDERSTENDI)'
 )
